@@ -2,3 +2,8 @@
 *.tfstate*
 .git/
 .env
+*.tfvars
+terraform.tfvars.*
+*.tfplan
+tfplan.*
+=
